@@ -1,22 +1,28 @@
 # Instagram Post Card
 
-A responsive replica of an Instagram post layout, built as a front-end exercise using Bootstrap, CSS, and external resources like Google Fonts and Font Awesome.
+<p>A responsive replica of an Instagram post layout, built as a front-end exercise using Bootstrap, CSS, and external resources like Google Fonts and Font Awesome.</p>
 
 ## 🔍 Features
-Instagram-style post viewer layout
-Responsive card design with avatar, image, icons, and text
-Use of Font Awesome for social icons
-Google Fonts integration for authentic look & feel
-Clean structure using Bootstrap components and custom CSS
+<ul>
+  <li>Instagram-style post viewer layout</li>
+  <li>Responsive card design with avatar, image, icons, and text</li>
+  <li>Use of Font Awesome for social icons</li>
+  <li>Google Fonts integration for authentic look &amp; feel</li>
+  <li>Clean structure using Bootstrap components and custom CSS</li>
+</ul>
 
 ## 🛠️ Technologies Used
-HTML5
-CSS3
-Bootstrap 5
-Google Fonts
-Font Awesome
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap 5</li>
+  <li>Google Fonts</li>
+  <li>Font Awesome</li>
+</ul>
 
 ## 📌 Notes
-Front-end only – no dynamic content or interactivity
-Created as a layout and design practice
-Ready for responsive display on multiple screen sizes
+<ul>
+  <li>Front-end only – no dynamic content or interactivity</li>
+  <li>Created as a layout and design practice</li>
+  <li>Ready for responsive display on multiple screen sizes</li>
+</ul>
