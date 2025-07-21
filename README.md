@@ -1,30 +1,22 @@
-# HTML Hello
+# Instagram Post Card
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+A responsive replica of an Instagram post layout, built as a front-end exercise using Bootstrap, CSS, and external resources like Google Fonts and Font Awesome.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+## 🔍 Features
+Instagram-style post viewer layout
+Responsive card design with avatar, image, icons, and text
+Use of Font Awesome for social icons
+Google Fonts integration for authentic look & feel
+Clean structure using Bootstrap components and custom CSS
 
-## What to do next?
+## 🛠️ Technologies Used
+HTML5
+CSS3
+Bootstrap 5
+Google Fonts
+Font Awesome
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
-
-```bash
-$ pip3 install flask && python3 server.py
-```
-
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
-
-### Contributors
-
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
-
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+##📌 Notes
+Front-end only – no dynamic content or interactivity
+Created as a layout and design practice
+Ready for responsive display on multiple screen sizes
