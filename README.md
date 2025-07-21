@@ -16,7 +16,7 @@ Bootstrap 5
 Google Fonts
 Font Awesome
 
-##📌 Notes
+## 📌 Notes
 Front-end only – no dynamic content or interactivity
 Created as a layout and design practice
 Ready for responsive display on multiple screen sizes
