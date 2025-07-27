@@ -26,3 +26,7 @@
   <li>Created as a layout and design practice</li>
   <li>Ready for responsive display on multiple screen sizes</li>
 </ul>
+
+## 📸 Screenshots
+
+![Card](https://github.com/user-attachments/assets/60695b29-6fa8-4311-a933-d989311df3a2)
